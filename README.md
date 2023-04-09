@@ -15,7 +15,7 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 ## ✨ &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=feb)](https://github.com/KWalkerNNK/Feb) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=donghanh)](https://github.com/KWalkerNNK/donghanh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=feb)](https://github.com/KWalkerNNK/Feb) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=sep)](https://github.com/KWalkerNNK/sep)
 
 &nbsp;
 
@@ -34,5 +34,7 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 <a href="https://github.com/KWalkerNNK?tab=followers"><img src="https://img.shields.io/github/followers/KWalkerNNK?label=Followers&style=social" alt="GitHub Badge">
 </a>
+
+&nbsp;
 &nbsp;
 <a rel="me" href="https://fb.com/KWalkerNNK">Follow me on Facebook</a>
