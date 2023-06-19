@@ -1,6 +1,6 @@
 Hey there, I'm Khanh. I'm a software developer!!!
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/KWalkerNNK?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/KWalkerNNK) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/KWalkerNNK?logo=GitHub&style=for-the-badge)](https://github.com/KWalkerNNK) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/KWalkerNNK?logo=github&style=for-the-badge)](https://github.com/KWalkerNNK) &nbsp;
+[![Twitter Followers](https://img.shields.io/twitter/follow/KWalkerNNK?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/KWalkerNNK) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/nguyennhukhanh?logo=GitHub&style=for-the-badge)](https://github.com/nguyennhukhanh) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/nguyennhukhanh?logo=github&style=for-the-badge)](https://github.com/nguyennhukhanh) &nbsp;
 
 
 # 👋 &nbsp;Hi there
@@ -15,26 +15,27 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 ## ✨ &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=feb)](https://github.com/KWalkerNNK/Feb) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KWalkerNNK&repo=sep)](https://github.com/KWalkerNNK/sep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyennhukhanh&repo=sep)](https://github.com/nguyennhukhanh/sep) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyennhukhanh&repo=cloudy)](https://github.com/nguyennhukhanh/cloudy)
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
 
-![KWalkerNNK' Github Stats](https://github-readme-stats.vercel.app/api?username=KWalkerNNK&hide=contribs)
+![Khanh Nguyen' Github Stats](https://github-readme-stats.vercel.app/api?username=nguyennhukhanh&hide=contribs)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KWalkerNNK)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyennhukhanh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWalkerNNK&layout=compact)](https://github.com/KWalkerNNK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhukhanh&layout=compact)](https://github.com/nguyennhukhanh/github-readme-stats)
 
 &nbsp;
 
 ## 🤍 Views and Followers
-<img src="https://komarev.com/ghpvc/?username=KKWalkerNNK">
+<img src="https://komarev.com/ghpvc/?username=nguyennhukhanh">
 
-<a href="https://github.com/KWalkerNNK?tab=followers"><img src="https://img.shields.io/github/followers/KWalkerNNK?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/nguyennhukhanh?tab=followers"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 &nbsp;
 &nbsp;
-<a rel="me" href="https://fb.com/KWalkerNNK">Follow me on Facebook</a>
+&nbsp;
+<a rel="me" href="https://fb.com/nguyennhukhanh">Follow me on Facebook</a>
