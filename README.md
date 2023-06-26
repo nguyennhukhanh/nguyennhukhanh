@@ -21,10 +21,4 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhukhanh&layout=compact)](https://github.com/nguyennhukhanh/github-readme-stats)
 
-&nbsp;
 
-## 🤍 Views and Followers
-<img src="https://komarev.com/ghpvc/?username=nguyennhukhanh">
-
-<a href="https://github.com/nguyennhukhanh?tab=followers+999999"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers&style=social" alt="GitHub Badge">
-</a>
