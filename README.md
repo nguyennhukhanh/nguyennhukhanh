@@ -19,6 +19,5 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyennhukhanh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhukhanh&layout=compact)](https://github.com/nguyennhukhanh/github-readme-stats)
 
 
