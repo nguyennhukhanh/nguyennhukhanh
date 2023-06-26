@@ -13,12 +13,6 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 &nbsp;
 
-## ✨ &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyennhukhanh&repo=sep)](https://github.com/nguyennhukhanh/sep) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyennhukhanh&repo=cloudy)](https://github.com/nguyennhukhanh/cloudy)
-
-&nbsp;
-
 ## 📊 &nbsp;Stats
 
 ![Khanh Nguyen' Github Stats](https://github-readme-stats.vercel.app/api?username=nguyennhukhanh&hide=contribs)
@@ -32,10 +26,5 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 ## 🤍 Views and Followers
 <img src="https://komarev.com/ghpvc/?username=nguyennhukhanh">
 
-<a href="https://github.com/nguyennhukhanh?tab=followers"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/nguyennhukhanh?tab=followers"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers+99999&style=social" alt="GitHub Badge">
 </a>
-
-&nbsp;
-&nbsp;
-&nbsp;
-<a rel="me" href="https://fb.com/nguyennhukhanh">Follow me on Facebook</a>
