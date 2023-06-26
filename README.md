@@ -26,5 +26,5 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 ## 🤍 Views and Followers
 <img src="https://komarev.com/ghpvc/?username=nguyennhukhanh">
 
-<a href="https://github.com/nguyennhukhanh?tab=followers"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers+99999&style=social" alt="GitHub Badge">
+<a href="https://github.com/nguyennhukhanh?tab=followers+999999"><img src="https://img.shields.io/github/followers/nguyennhukhanh?label=Followers&style=social" alt="GitHub Badge">
 </a>
