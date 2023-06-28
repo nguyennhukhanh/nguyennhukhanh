@@ -3,11 +3,14 @@
 # 👋 &nbsp;Hi there
 
 As a Web developer, I have a quick learning ability. My strengths lie in Web (Backend) development as well as a strong understanding of basic concepts of JavaScript, TypeScript. I understand what RESTful APIs, MVC, WebSocket and some other OOP Design Patterns are.
-I am fairly proficient in some technologies such as: NodeJS/NestJS, React Native, MySQL, NoSQL(MongoDB)...
+I am fairly proficient in some technologies such as: NodeJS, NestJS, ExpressJS, React Native, MySQL, NoSQL(MongoDB)...
 I have basic knowledge of source code management tool: GIT.
 Efficiently manage independent projects, as well as collaborate in a team working environment.
 
-## 👨‍💻 &nbsp;Technical
+## 📷 &nbsp;Contributions 
+![Contributions](nguyennhukhanh_2.svg)
+
+## 👨‍💻 &nbsp;Technicals
 <div align="center">
         <div style="display: flex; align-items: flex-start;">
                 <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe" alt="nodejs" width="100" height="100" />
