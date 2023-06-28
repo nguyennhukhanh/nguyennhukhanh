@@ -21,3 +21,5 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 
 [![Nguyễn Như Khánh profile views](https://u8views.com/api/v1/github/profiles/105545726/views/day-week-month-total-count.svg)](https://u8views.com/github/nguyennhukhanh)
+
+[![Nguyễn Như Khánh profile views](https://profile-summary-for-github.com/user/nguyennhukhanh)](https://profile-summary-for-github.com/user/nguyennhukhanh)
