@@ -10,7 +10,7 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 ## 📷 &nbsp;Contributions 
 ![Contributions](nguyennhukhanh_2.svg)
 
-## 👨‍💻 &nbsp;Technicals
+## 👨‍💻 &nbsp;Technical Skills
 <div align="center">
         <div style="display: flex; align-items: flex-start;">
                 <img src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe" alt="nodejs" width="100" height="100" />
