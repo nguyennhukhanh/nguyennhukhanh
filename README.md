@@ -2,7 +2,13 @@
 
 # 👋 &nbsp;Hi there
 
-As a Web developer, I have a quick learning ability. My strengths lie in Web (Backend) development as well as a strong understanding of basic concepts of JavaScript, TypeScript.
+As a web developer, I pride myself on my quick learning ability.
+<br>
+My expertise lies in backend web development, and I have a solid understanding of fundamental concepts in JavaScript and TypeScript.
+<br>
+Additionally, I am well-versed in RESTful API, WebSocket, GraphQL, SQL, and NoSQL.
+<br>
+This diverse skill set allows me to tackle a variety of challenges and continuously expand my knowledge base.
 
 <!-- ## 📷 &nbsp;Contributions 
 ![Contributions](nguyennhukhanh_2.svg) -->
