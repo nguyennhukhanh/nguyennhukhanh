@@ -16,7 +16,7 @@ This diverse skill set allows me to tackle a variety of challenges and continuou
 ## 👨‍💻 &nbsp;Technical Skills
 <p align="center">
   <a href="https://fb.com/nhukhanhdev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,ts,nodejs,angular,express,nestjs,dotnet,spring,tensorflow,github,mongodb,mysql,postgres,docker,firebase,gcp&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,ts,nodejs,react,angular,express,nestjs,dotnet,spring,tensorflow,mongodb,mysql,postgres,docker,firebase,gcp,github,gitlab,graphql,solidity,qt,discord,bots&perline=14" />
   </a>
 </p>
 &nbsp;
