@@ -1,6 +1,6 @@
 # Hey there, I'm Khanh. I'm a software developer!!!
 
-# 👋 &nbsp;Hi there
+<!--# 👋 &nbsp;Hi there
 
 As a web developer, I pride myself on my quick learning ability.
 <br>
@@ -8,17 +8,18 @@ My expertise lies in backend web development, and I have a solid understanding o
 <br>
 Additionally, I am well-versed in RESTful API, WebSocket, GraphQL, SQL, and NoSQL.
 <br>
-This diverse skill set allows me to tackle a variety of challenges and continuously expand my knowledge base.
+This diverse skill set allows me to tackle a variety of challenges and continuously expand my knowledge base. -->
 
 <!-- ## 📷 &nbsp;Contributions 
 ![Contributions](nguyennhukhanh_2.svg) -->
 
+<!--
 ## 👨‍💻 &nbsp;Technical Skills
 <p align="center">
   <a href="https://fb.com/nhukhanhdev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,ts,nodejs,react,angular,express,nestjs,dotnet,spring,tensorflow,mongodb,mysql,postgres,docker,firebase,gcp,github,gitlab,graphql,solidity,qt,discord,bots&perline=14" />
   </a>
-</p>
+</p> -->
 &nbsp;
 
 <!-- ## 📊 &nbsp;Stats
