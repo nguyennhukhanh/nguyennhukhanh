@@ -1,33 +1,53 @@
-# Hey there, I'm Khanh. I'm a software developer!!!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Khanh
 
-<!--# 👋 &nbsp;Hi there
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Developer&fontSize=70&fontAlignY=35&animation=fadeIn)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Specialist;RESTful+API+Expert;WebSocket+Developer;Problem+Solver)](https://git.io/typing-svg)
+  
+</div>
 
-As a web developer, I pride myself on my quick learning ability.
-<br>
-My expertise lies in backend web development, and I have a solid understanding of fundamental concepts in JavaScript and TypeScript.
-<br>
-Additionally, I am well-versed in RESTful API, WebSocket, GraphQL, SQL, and NoSQL.
-<br>
-This diverse skill set allows me to tackle a variety of challenges and continuously expand my knowledge base. -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Projects
 
-<!-- ## 📷 &nbsp;Contributions 
-![Contributions](nguyennhukhanh_2.svg) -->
-
-<!--
-## 👨‍💻 &nbsp;Technical Skills
-<p align="center">
-  <a href="https://fb.com/nhukhanhdev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,js,ts,nodejs,react,angular,express,nestjs,dotnet,spring,tensorflow,mongodb,mysql,postgres,docker,firebase,gcp,github,gitlab,graphql,solidity,qt,discord,bots&perline=14" />
+<div align="center">
+  <a href="https://github.com/thanhhoajs/thanhhoa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhhoajs&repo=thanhhoa&theme=react&hide_border=true" />
   </a>
-</p> -->
-&nbsp;
+  <a href="https://github.com/thanhhoajs/docs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhhoajs&repo=docs&theme=react&hide_border=true" />
+  </a>
+</div>
 
-<!-- ## 📊 &nbsp;Stats
-![Khanh Nguyen' Github Stats](https://github-readme-stats.vercel.app/api?username=nguyennhukhanh&theme=radical)
-&nbsp;
-## 🔥 &nbsp;Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyennhukhanh&theme=radical)
-&nbsp;
-## 🥇 &nbsp;Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=nguyennhukhanh&theme=radical)](https://github.com/nguyennhukhanh/github-profile-trophy)
--->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyennhukhanh&theme=github_dark" width="100%" alt="stats graph"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyennhukhanh&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
+
+<div align="center">
+  <a href="https://fb.com/nhuwkhanhs14">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:kwalker.nnk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyennhukhanh/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nguyennhukhanh">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nguyennhukhanh/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
